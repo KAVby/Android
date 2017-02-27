@@ -5,7 +5,7 @@
     density="hdpi"
     format="8"
     plugin-version="2.2.3"
-    timestamp="77965690335451"
+    timestamp="51568415841838"
     token="-1902058154516387836"
     verifier="COMPATIBLE" >
 
@@ -27,14 +27,14 @@
         type="RESOURCES" />
 
     <build
-        timestamp="77892596162969"
-        verifier="FULL_BUILD_REQUESTED" >
+        timestamp="51286113022047"
+        verifier="R_CLASS_CHANGE" >
         <artifact
             location="D:\workspace\StudioProjects\caldr1\caldr\build\outputs\apk\caldr-debug.apk"
             type="MAIN" />
     </build>
     <build
-        timestamp="77965690335451"
+        timestamp="51568415841838"
         verifier="COMPATIBLE" >
         <artifact
             location="D:\workspace\StudioProjects\caldr1\caldr\build\intermediates\instant-run-resources\resources-debug.ir.ap_"

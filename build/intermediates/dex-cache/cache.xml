@@ -16,7 +16,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="703e71f5dd61d0afd35947ab116a78ffbe60ac76">
+        sha1="aa2f2b0a05824e87831d20c59fbb057a7cf43fd9">
         <dex dex="D:\workspace\StudioProjects\caldr1\caldr\build\intermediates\pre-dexed\debug\instant-run-bootstrap_dc38dc2c62e994408259689f4908e900796ec0cc.jar" />
     </item>
     <item
@@ -34,7 +34,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="7e33a44cd6682af4436151815f0643c10ec0b5f1">
+        sha1="4a4b444a8bf21c30802ad3fb5c190cb50953764e">
         <dex dex="D:\workspace\StudioProjects\caldr1\caldr\build\intermediates\pre-dexed\debug\instant-run_ae1fc52ac8732841519c59877d5b235258ff9ba8.jar" />
     </item>
 

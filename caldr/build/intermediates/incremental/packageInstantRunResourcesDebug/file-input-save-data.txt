@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Fri Feb 24 21:54:36 GMT+03:00 2017
+#Mon Feb 27 23:56:37 GMT+03:00 2017
 20.set=ANDROID_RESOURCE
 19.set=ANDROID_RESOURCE
 8.set=ANDROID_RESOURCE
@@ -12,7 +12,7 @@
 5.base=D\:\\workspace\\StudioProjects\\caldr1\\caldr\\build\\intermediates\\res\\resources-debug.ap_
 5.file=D\:\\workspace\\StudioProjects\\caldr1\\caldr\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\date_cell.xml
 7.base=D\:\\workspace\\StudioProjects\\caldr1\\caldr\\build\\intermediates\\res\\resources-debug.ap_
-7.file=D\:\\workspace\\StudioProjects\\caldr1\\caldr\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xxhdpi-v4\\ic_launcher.png
+7.file=D\:\\workspace\\StudioProjects\\caldr1\\caldr\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\date_grid_fragment.xml
 11.file=D\:\\workspace\\StudioProjects\\caldr1\\caldr\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\activity_main.xml
 11.base=D\:\\workspace\\StudioProjects\\caldr1\\caldr\\build\\intermediates\\res\\resources-debug.ap_
 9.base=D\:\\workspace\\StudioProjects\\caldr1\\caldr\\build\\intermediates\\res\\resources-debug.ap_
@@ -26,10 +26,10 @@
 15.file=D\:\\workspace\\StudioProjects\\caldr1\\caldr\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\left_arrow.xml
 15.base=D\:\\workspace\\StudioProjects\\caldr1\\caldr\\build\\intermediates\\res\\resources-debug.ap_
 18.set=ANDROID_RESOURCE
-17.file=D\:\\workspace\\StudioProjects\\caldr1\\caldr\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\menu_main.xml
+17.file=D\:\\workspace\\StudioProjects\\caldr1\\caldr\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\disable_cell.xml
 17.base=D\:\\workspace\\StudioProjects\\caldr1\\caldr\\build\\intermediates\\res\\resources-debug.ap_
 7.set=ANDROID_RESOURCE
-19.file=D\:\\workspace\\StudioProjects\\caldr1\\caldr\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable\\disable_cell.xml
+19.file=D\:\\workspace\\StudioProjects\\caldr1\\caldr\\build\\intermediates\\res\\resources-debug.ap_\\res\\menu\\menu_main.xml
 19.base=D\:\\workspace\\StudioProjects\\caldr1\\caldr\\build\\intermediates\\res\\resources-debug.ap_
 14.set=ANDROID_RESOURCE
 3.set=ANDROID_RESOURCE
@@ -48,9 +48,9 @@
 10.file=D\:\\workspace\\StudioProjects\\caldr1\\caldr\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\calendar_next_arrow.png
 13.set=ANDROID_RESOURCE
 8.base=D\:\\workspace\\StudioProjects\\caldr1\\caldr\\build\\intermediates\\res\\resources-debug.ap_
-8.file=D\:\\workspace\\StudioProjects\\caldr1\\caldr\\build\\intermediates\\res\\resources-debug.ap_\\res\\layout\\date_grid_fragment.xml
+8.file=D\:\\workspace\\StudioProjects\\caldr1\\caldr\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-xxhdpi-v4\\ic_launcher.png
 2.set=ANDROID_RESOURCE
-20.file=D\:\\workspace\\StudioProjects\\caldr1\\caldr\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\calendar_prev_arrow.png
+20.file=D\:\\workspace\\StudioProjects\\caldr1\\caldr\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
 20.base=D\:\\workspace\\StudioProjects\\caldr1\\caldr\\build\\intermediates\\res\\resources-debug.ap_
 12.file=D\:\\workspace\\StudioProjects\\caldr1\\caldr\\build\\intermediates\\res\\resources-debug.ap_\\res\\mipmap-mdpi-v4\\ic_launcher.png
 12.base=D\:\\workspace\\StudioProjects\\caldr1\\caldr\\build\\intermediates\\res\\resources-debug.ap_
@@ -61,7 +61,7 @@
 16.base=D\:\\workspace\\StudioProjects\\caldr1\\caldr\\build\\intermediates\\res\\resources-debug.ap_
 9.set=ANDROID_RESOURCE
 count=22
-18.file=D\:\\workspace\\StudioProjects\\caldr1\\caldr\\build\\intermediates\\res\\resources-debug.ap_\\resources.arsc
+18.file=D\:\\workspace\\StudioProjects\\caldr1\\caldr\\build\\intermediates\\res\\resources-debug.ap_\\res\\drawable-hdpi-v4\\calendar_prev_arrow.png
 18.base=D\:\\workspace\\StudioProjects\\caldr1\\caldr\\build\\intermediates\\res\\resources-debug.ap_
 16.set=ANDROID_RESOURCE
 5.set=ANDROID_RESOURCE
